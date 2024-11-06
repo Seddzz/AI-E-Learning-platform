@@ -1,0 +1,4 @@
+[{'Question': 'Quel est le moyen le plus simple de créer un nouvel objet en Javascript ?', 'CorrectAnswer': 'En utilisant des accolades `{}`.', 'StudentAnswer': 'En utilisant la syntaxe `new Object()`.'}, {'Question': 'Comment accédez-vous à la propriété "nom" d\'un objet appelé "personne" ?', 'CorrectAnswer': 'Les deux options sont correctes.', 'StudentAnswer': '`personne.nom`.'}, {'Question': "Quelle méthode permet de supprimer une propriété d'un objet ?", 'CorrectAnswer': '`delete()`.', 'StudentAnswer': '`delete()`.'}]
+58
+50
+Error generating feedback: 'charmap' codec can't encode character '\U0001f609' in position 619: character maps to <undefined>
